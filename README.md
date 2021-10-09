@@ -1,7 +1,7 @@
 # Instagram Backend HTTP REST API using GO Lang and Mongo DB
 
 Project for Appointy Summer Internship . Project built within 25 hrs, with no prior knowledge of GO.
-___
+__
 
 ### Objectives - To be completed
 - Create User Endpoint
