@@ -25,5 +25,5 @@ Project for Appointy Summer Internship . Project built within 25 hrs, with no pr
 - [x] Password Encryption
 - [X] Server Thread Safety
 - [X] Pagination
-- []Unit Testing
+- [ ]Unit Testing
 Could've implemented if not for the time constraint. :(
