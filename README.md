@@ -1,7 +1,7 @@
 # Instagram Backend HTTP REST API using GO Lang and Mongo DB
 
 Project for Appointy Summer Internship . Project built within 25 hrs, with no prior knowledge of GO.
-__
+___
 
 ### Objectives - To be completed
 - Create User Endpoint
@@ -14,6 +14,8 @@ __
 - Server Thread Safety
 - Pagination
 - Unit Testing
+
+---
 
 ### Progress
 - [X] Create User Endpoint
@@ -28,3 +30,9 @@ __
 - [X] Pagination
 - [ ] Unit Testing : 
 Could've implemented if not for the time constraint. :(
+
+---
+### NOTE
+- Server Thread safety was implemented using sync
+- Routing URLS present in the main function of each .go file
+- Password_Encryption explains how hasing is used to prevent reverse ngineering attempt to find password. Even User passwords are stored in encrypted form in the DB.
